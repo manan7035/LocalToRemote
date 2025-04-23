@@ -1,4 +1,8 @@
-p{
-    color: white;
-    background-color: black;
+p {
+  color: white;
+  background-color: black;
+}
+
+.second {
+  color: blue;
 }
